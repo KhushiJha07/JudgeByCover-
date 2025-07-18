@@ -14,9 +14,9 @@ You don’t need to type anything — just click on a book title, and the app ha
 It uses a trained ML model to compare books based on certain features and shows you similar ones. Everything runs smoothly in the browser thanks to Streamlit.
 ### 📺 Demo:
 
-![Demo](tdemo(1).png)
-![Demo](tdemo(2).png)
-![Demo](tdemo(3).png)
+![Demo](Setup/tdemo(1).png)
+![Demo](Setup/tdemo(2).png)
+![Demo](Setup/tdemo(3).png)
 
 
 ## 🧠 Workflow
